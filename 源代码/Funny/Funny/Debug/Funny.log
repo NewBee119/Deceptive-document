@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017/11/22 17:37:28。
+项目“C:\Users\FDD\Documents\Visual Studio 2013\Projects\Funny\Funny\Funny.vcxproj”在节点 2 上(Rebuild 个目标)。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Funny.cpp
+  Funny.cpp
+c:\users\fdd\documents\visual studio 2013\projects\funny\funny\funny.cpp(26): warning C4101: “gg”: 未引用的局部变量
+ResourceCompile:
+  C:\Program Files\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"Debug\Funny1.res" Funny1.rc 
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\FDD\Documents\Visual Studio 2013\Projects\Funny\Debug\Funny.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\FDD\Documents\Visual Studio 2013\Projects\Funny\Debug\Funny.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\FDD\Documents\Visual Studio 2013\Projects\Funny\Debug\Funny.lib" /MACHINE:X86 Debug\Funny1.res
+  Debug\Funny.obj
+  Funny.vcxproj -> C:\Users\FDD\Documents\Visual Studio 2013\Projects\Funny\Debug\Funny.exe
+已完成生成项目“C:\Users\FDD\Documents\Visual Studio 2013\Projects\Funny\Funny\Funny.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.68
