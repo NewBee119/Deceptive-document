@@ -41,7 +41,7 @@
 **程序流程示例**
 
 
-![run](https://github.com/scu-igroup/Deceptive-document/image/run.gif)
+![run](https://github.com/scu-igroup/Deceptive-document/tree/master/image/run.gif)
 
 
 	
