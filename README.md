@@ -38,9 +38,8 @@
 
 	    3.目前只针对五种类型的文档进行替换，文件夹、txt文本、word文档、ppt、可执行程序(.exe)。
 	    
-**程序流程示例**
-
-
+**程序流程示例**  
+  
 ![image](https://github.com/scu-igroup/Deceptive-document/tree/master/image/run.gif)
 
 
