@@ -40,7 +40,7 @@
 	    
 **程序流程示例**  
   
-![image] (https://github.com/scu-igroup/Deceptive-document/tree/master/image/run.gif)
+![image](https://github.com/scu-igroup/Deceptive-document/tree/master/image/run.gif)
 
 
 	
